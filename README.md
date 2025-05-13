@@ -45,17 +45,16 @@ A comprehensive Android-based application designed to support dementia and Alzhe
 
 ---
 
-## 📷 Screenshots
+<h3>📷 Screenshots</h3>
 
-### 📷 Screenshots
+<img src="screenshots_app/home dashboard.jpg" alt="Home Screen" width="300"/>
+<img src="screenshots_app/caregiver dashboard.jpg" alt="Caregiver dashboard" width="300"/>
+<img src="screenshots_app/Patient_module.jpg" alt="Patient dashboard" width="300"/>
+<img src="screenshots_app/Medication.jpg" alt="Medication Management" width="300"/>
+<img src="screenshots_app/save contact.jpg" alt="Save Contacts" width="300"/>
+<img src="screenshots_app/voice alert.jpg" alt="Voice Alerts" width="300"/>
+<img src="screenshots_app/safe zone.jpg" alt="Safe Zone Alert" width="300"/>
 
-![Home Screen](screenshots_app/home dashboard.jpg)
-![Caregiver dashboard](screenshots_app/caregiver dashboard.jpg)
-![Patient dashboard](screenshots_app/Patient_module.jpg)
-![Medication Management](screenshots_app/Medication.jpg)
-![Save Contacts](screenshots_app/save contact.jpg)
-![Voice Alerts](screenshots_app/voice alert.jpg)
-![Safe Zone Alert](screenshots_app/safe zone.jpg)
 
 ---
 
