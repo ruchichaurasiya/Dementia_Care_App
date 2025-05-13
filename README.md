@@ -47,13 +47,25 @@ A comprehensive Android-based application designed to support dementia and Alzhe
 
 <h3>📷 Screenshots</h3>
 
-<img src="screenshots_app/home dashboard.jpg" alt="Home Screen" width="300"/>
-<img src="screenshots_app/caregiver dashboard.jpg" alt="Caregiver dashboard" width="300"/>
-<img src="screenshots_app/Patient_module.jpg" alt="Patient dashboard" width="300"/>
-<img src="screenshots_app/Medication.jpg" alt="Medication Management" width="300"/>
-<img src="screenshots_app/save contact.jpg" alt="Save Contacts" width="300"/>
-<img src="screenshots_app/voice alert.jpg" alt="Voice Alerts" width="300"/>
-<img src="screenshots_app/safe zone.jpg" alt="Safe Zone Alert" width="300"/>
+<table>
+  <tr>
+    <td><img src="screenshots_app/home dashboard.jpg" alt="Home Screen" width="300"/></td>
+    <td><img src="screenshots_app/caregiver dashboard.jpg" alt="Caregiver dashboard" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots_app/Patient_module.jpg" alt="Patient dashboard" width="300"/></td>
+    <td><img src="screenshots_app/Medication.jpg" alt="Medication Management" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots_app/save contact.jpg" alt="Save Contacts" width="300"/></td>
+    <td><img src="screenshots_app/voice alert.jpg" alt="Voice Alerts" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots_app/safe zone.jpg" alt="Safe Zone Alert" width="300"/></td>
+    <td></td> <!-- Leave blank if odd number of images -->
+  </tr>
+</table>
+
 
 
 ---
