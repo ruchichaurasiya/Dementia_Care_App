@@ -73,7 +73,4 @@ A comprehensive Android-based application designed to support dementia and Alzhe
 - Android SDK 31+
 - Kotlin 1.8+
 
-### Installation
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/dementia-care-app.git
+
